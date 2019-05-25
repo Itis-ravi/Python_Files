@@ -1,0 +1,13 @@
+# Simple Print
+i = 1
+while i <= 10:
+    print(i)
+    i = i+1
+
+x = []
+y =1
+while y <= 10:
+    x.append(y)
+    y+=1
+
+print(x)
